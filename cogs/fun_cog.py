@@ -31,5 +31,5 @@ def setup(bot):
     """Adds The Cog To The Client."""
     bot.add_cog(FunCog(bot))
     #! Unimplemented Custom Context (LEAVE COMMENTED!!)
-    #bot.insult_ctx = commands.Context(channel=bot.get_channel(823837914408288296))
+    #bot.insult_ctx = commands.Context(channel=bot.get_channel(CHANNEL))
     #schedule.every(10).seconds.do(FunCog.insult(bot, bot.insult_ctx))
