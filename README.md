@@ -1,4 +1,4 @@
-# Technologically-Caffinated Discord Bot
+# Technologically-Caffeinated Discord Bot
 A general-purpose Discord bot.
 
 ## Requirements
